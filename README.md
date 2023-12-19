@@ -1,0 +1,2 @@
+# emuGB
+A Game Boy emulator written in C.
